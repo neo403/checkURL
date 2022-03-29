@@ -17,7 +17,7 @@
 # python3 checkURL.py --help
 usage: checkURL.py [-h] [--url URL | --url-list URL_list] [--check-url]
 
-Check IDN Homograph Attack - UndeadSec
+Checking for sites.com
 
 optional arguments:
   -h, --help           show this help message and exit
